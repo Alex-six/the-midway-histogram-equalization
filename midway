@@ -1,5 +1,3 @@
-# the-midway-histogram-equalization
-Efficient single image non-uniformity correction algorithm
 clc,close all,clear all;
 % fp=importdata('noise180.txt');
 % fp =uint8(fp./3);
